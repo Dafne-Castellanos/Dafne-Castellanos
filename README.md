@@ -1,13 +1,13 @@
-### Hi beautiful humans! 👋
+### ✨ Hi beautiful humans! ✨
 
 I'm Dafne Castellanos, a dedicated professional in Applied Mathematics and Computer Science, specializing in Data Science and Artificial Intelligence. With expertise in statistical analysis, machine learning, natural language processing, and computer vision, I thrive on designing and implementing solutions that drive project success and process optimization.
 
 #### About Me
 - 🔭 Currently working on projects in Data Science and Artificial Intelligence, focusing on big data, natural language processing, computer vision, and data analysis.
 - 🌱 Always learning! Currently exploring advanced topics in big data and deepening my knowledge in machine learning.
-- 👯 Looking to collaborate with passionate individuals in the data science community to leverage data-driven insights for impactful projects.
+- 🫂 Looking to collaborate with passionate individuals in the data science community to leverage data-driven insights for impactful projects.
 - 📫 You can reach me via email: dafnecas04@gmail.com or dafne.castellanos@urosario.edu.co, or connect with me on LinkedIn.
-- ⚡ Fun fact: I'm a Formula 1 enthusiast and a movie buff!
+- 🏎️ Fun fact: I'm a Formula 1 enthusiast and a movie buff!
 
 Let's connect and explore opportunities to collaborate on projects that make a difference.
 
